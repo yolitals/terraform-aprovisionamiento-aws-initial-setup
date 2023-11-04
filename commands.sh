@@ -3,8 +3,9 @@ git config --global user.email "example@gmail.com"
 git config --global user.name "Example"
 
 
-# Clonar repositorio
-git clone https://github.com/yolitals/terraform-aprovisionamiento-aws-serverless-app.git
+# Hacer fork del repositorio y luego clonarlo en su ambiente sandbox
+https://github.com/yolitals/terraform-aprovisionamiento-aws-serverless-app.git
+# Moverse al repositorio clonado
 cd terraform-aprovisionamiento-aws-serverless-app
 
 # Comandos de terraform
